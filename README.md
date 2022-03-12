@@ -1,3 +1,2 @@
 ## TCP REVSHELL:
-SCAN:
-<img width="1178" alt="image" src="https://user-images.githubusercontent.com/86436966/158033584-1ad5a098-565a-4905-bf72-56c73660b53c.png">
+[SCAN](https://www.virustotal.com/gui/file/5aa9fdaee5f02e30f91127ddc423fcdf40d84f2d65081ea29df857a41998783c?nocache=1)
