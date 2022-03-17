@@ -6,5 +6,9 @@
 - Integrate file upload and other stuff.
 - DLL port is done.
 
+***RtlCreateUserThread Injector:***
+- Finished a POC but needs bugfixing
+
+
 ***DROPPER:***
 - IN PROGRESS
