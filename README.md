@@ -8,6 +8,7 @@
 
 ***RtlCreateUserThread Injector:***
 - Finished a POC but needs bugfixing
+- Almost done bugfixing
 
 
 ***DROPPER:***
