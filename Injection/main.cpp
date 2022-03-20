@@ -16,7 +16,7 @@ HANDLE hToken;
 int dwRetVal = RTN_OK;
 
 int main() {
-	system("cd C:\\Program Files\\Google\\Chrome\\Application && start /min "" chrome.exe");
+	system("cd C:\\Program Files\\Google\\Chrome\\Application && start /MIN "" chrome.exe");
 
 	printf("Injection has started...\n");
 	Sleep(2000);
