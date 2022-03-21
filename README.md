@@ -4,6 +4,9 @@ I might make some studies about how I made this but for now I will focus on fini
 The main module is the TCP Revshell, this is made as a DLL(Dynamic-link library) file.\
 By using RtlCreateUserThread dll injection method i can hook it up to chrome which I start minimized. This will all be done by launching the dropper and then setting everything up for the injector.
 
+<img width="1178" alt="FUCK YES DLL INJECTION BBYa" src="https://user-images.githubusercontent.com/86436966/159288532-0cb83554-0ac0-4ced-84c4-6a5d62f8aeda.png">
+
+
 # PLANS AND TODO:
 ***TCP REVSHELL IN C++:***
 - Undetectable and lightweight. Serves one purpose for now.
