@@ -1,6 +1,6 @@
 # PLANS AND TODO:
 ***TCP REVSHELL IN C++:***
-- Undetectable and lightweight. Serves one purpose for now.\
+- Undetectable and lightweight. Serves one purpose for now.
 
 ***RtlCreateUserThread Injector:***
 - Finished a POC but needs bugfixing
