@@ -1,6 +1,5 @@
 # ZXYR
 A remote access trojan made mainly in C++. This serves for me as a study of system programming and a first look into the world of malware.\
-I might make some studies about how I made this but for now I will focus on finishing the product.\
 The main module is the TCP Revshell, this is made as a DLL(Dynamic-link library) file.\
 By using RtlCreateUserThread dll injection method i can hook it up to chrome which I start minimized. This will all be done by launching the dropper and then setting everything up for the injector.
 
@@ -23,6 +22,7 @@ By using RtlCreateUserThread dll injection method i can hook it up to chrome whi
 - TaskManager kill
 - AutoStartup user persistance
 - Client and finish dropper
+- I might make some studies about how I made this but for now I will focus on finishing the product.
 
 # Last Update(XZYR 1.01):
 - Bugfixing injector
