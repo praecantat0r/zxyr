@@ -25,7 +25,7 @@ By using RtlCreateUserThread dll injection method i can hook it up to chrome whi
 - I might make some studies about how I made this but for now I will focus on finishing the product.
 
 # Last Update(XZYR 1.01):
-- Bugfixing injector
+- Injector finished and mostly bugfixed.
 - Minimized chrome start and an overhaul of the dll.
 - System breaking problems are done
 - Everything executes a bit faster
