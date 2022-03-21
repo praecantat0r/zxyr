@@ -25,6 +25,6 @@ The main module is the TCP Revshell, this is made as a DLL(Dynamic-link library)
 - Minimized chrome start and an overhaul of the dll.
 - System breaking problems are done
 - Everything executes a bit faster
-- 
+
 ![ZXYR 1 01](https://user-images.githubusercontent.com/86436966/159282869-d1c4382d-c867-4014-921f-c10ffe46a047.gif)
 > ZXYR 1.01 SHOWCASE
