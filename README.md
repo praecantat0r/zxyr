@@ -7,13 +7,13 @@ By using RtlCreateUserThread dll injection method i can hook it up to chrome whi
 
 
 # PLANS AND TODO:
-***TCP REVSHELL IN C++:***
+***Backdoor:***
 - Undetectable and lightweight. Serves one purpose for now.
 
 ***RtlCreateUserThread Injector:***
 - POC finished
 
-***DROPPER:***
+***Dropper:***
 - IN PROGRESS
 
 ***TODO:***
